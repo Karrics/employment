@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<employment_agency>
+	<entity_1>
+		<name>Apple</name>
+		<location>
+			<country>USA</country>
+			<city>California</city>
+		</location>
+		<vacancies>
+			<vacancy_1>
+				<position>Developer</position>
+				<requirements>Swift programming skills</requirements>
+				<salary>100.000$ per mounth</salary>
+			</vacancy_1>
+			<vacancy_2>
+				<position>Seller</position>
+				<requirements>None</requirements>
+				<salary>30.000$ per mounth</salary>
+			</vacancy_2>
+		</vacancies>
+	</entity_1>
+	<entity_2>
+		<name>Sber</name>
+		<location>
+			<country>Russia</country>
+			<city>Moscow</city>
+		</location>
+		<vacancies>
+			<vacancy_1>
+				<position>Analyst</position>
+				<requirements>Ability to work in a team</requirements>
+				<salary>80.000$ per mounth</salary>
+			</vacancy_1>
+			<vacancy_2>
+				<position>Executive Director</position>
+				<requirements>Keep records</requirements>
+				<salary>150.000$ per mounth</salary>
+			</vacancy_2>
+		</vacancies>
+	</entity_2>
+	<entity_3>
+		<name>Mersedes-Benz</name>
+		<location>
+			<country>Germany</country>
+			<city>Stuttgart</city>
+		</location>
+		<vacancies>
+			<vacancy_1>
+				<position>Painter</position>
+				<requirements>Neatness and accuracy</requirements>
+				<salary>65.000$ per mounth</salary>
+			</vacancy_1>
+			<vacancy_2>
+				<position>F1 racer in Mersedes AMG Petronas Motosport</position>
+				<requirements>Be the fastest</requirements>
+				<salary>250.000$ per mounth</salary>
+			</vacancy_2>
+		</vacancies>
+	</entity_3>
+</employment_agency>
